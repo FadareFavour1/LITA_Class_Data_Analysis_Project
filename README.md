@@ -61,4 +61,6 @@ Functions that were used in Excel for Extraction are :
 
 
 
+![Screenshot (2)](https://github.com/user-attachments/assets/19a00c65-1c2b-498e-83ef-b15699453058)
 
+![Screenshot (3)](https://github.com/user-attachments/assets/5a467df9-2870-4a42-93d2-5671d36050c5)
