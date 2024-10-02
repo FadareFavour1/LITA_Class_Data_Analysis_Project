@@ -22,8 +22,42 @@ SCHEDULE OF PIONEER STAFF
 4. Dynamic Salary Compensation Schedule			
 Salary Compensation Schedule		
 as at 1 January 2020		
+- it contains Employee Number, Employee Names, Department,	Grade Level and their Salaries 
+- It was used to retrieve data
 
+### Tools Used 
+i.  Microsoft Excel:
+- For cleaning
+- For extraction
+- For Reporting- Using the Pivot Table
+- For Visualization 
 
+ii. SQL- Structured Query Language :
+- For writing queries
+- For creating tables
+
+iii. Github
+- To build Portfolios
+
+### Data Cleaning and Preparation
+1. Data loading and Inspection
+2. Handling missing data
+3. Data Cleaning and formatting
+4. Data type Correction
+
+### Data Extraction
+Functions that were used in Excel for Extraction are : 
+- SUM 
+- AVERAGE
+- MAX
+- MIN
+- COUNT
+- LARGE
+- SMALL
+- SUMIF - Used if there are conditions
+- AVERAGEIF - If there are conditions
+- COUNTIF - If there are conditions 
+  
 
 
 
