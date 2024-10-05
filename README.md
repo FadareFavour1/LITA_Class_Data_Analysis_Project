@@ -3,6 +3,7 @@
 ### Project Title  
 Discovering Data Insights: My Learning Experience with Data Analysis
 
+### Contents
 [Project Overview ](#Project-Overview)
 
 [Data Sources](#Data-Sources)
