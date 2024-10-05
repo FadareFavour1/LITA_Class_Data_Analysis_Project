@@ -4,9 +4,13 @@
 Discovering Data Insights: My Learning Experience with Data Analysis
 
 [Project Overview ](#Project-Overview)
+
 [Data Sources](#Data-Sources)
+
 [Tools Used](#Tools-Used)
+
 [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+
 [Data Extraction](#Data-Extraction)
 
 
