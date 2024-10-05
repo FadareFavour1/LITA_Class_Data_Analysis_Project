@@ -12,7 +12,7 @@ Discovering Data Insights: My Learning Experience with Data Analysis
 
 [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
-[Data Extraction](#Data-Extraction)
+[Functions used in Excel](#Functions-used-in-Excel)
 
 
 ### Project Overview 
@@ -23,6 +23,7 @@ The data used in this project was provided by the course instructor and includes
 1. ID and Co. Limited	
 Schedule of Pioneer Staff
 - It contains the Name, the Company and the Salary paid
+- It was used for data extraction
 2. I lost My Records Nigeria Limited			
 Schedule of retrieved data for Assets Schedules
 -	It contains codes used for transaction in a company
@@ -57,8 +58,8 @@ iii. Github
 3. Data Cleaning and formatting
 4. Data type Correction
 
-### Data Extraction
-Functions that were used in Excel for Extraction are : 
+### Functions used in Excel
+Functions that were used in Excel are : 
 - SUM 
 - AVERAGE
 - MAX
