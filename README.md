@@ -15,6 +15,7 @@ Sales Data Analysis
 
 [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
+[Eploratory Data Analysis](Exploratory-Data-Analysis)
 
 
 ### Project Overview 
@@ -52,6 +53,10 @@ i.  Microsoft Excel:
 
 ### Exploratory Data Analysis
 The objective of the Exploratory Data Analysis is to uncover key patterns, trends, and insights in the sales data. This analysis focuses on understanding the relationships between variables such as Region, Product Model, Line of Business, Revenue, and Units Sold. The following techniques were applied using Excel to explore the data.
+1. Revenue by Region
+ - Regional Performance: A Pivot Table was used to analyze total Revenue and Units Sold by Region.
+ - This analysis showed that Niorth East has the highest Revenue while North Cebtral has the lowest Revenue
+ - A Bar Chart was created to visually compare the revenue contribution of different regions.
 
 
 
