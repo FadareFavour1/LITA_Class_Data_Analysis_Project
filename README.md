@@ -50,7 +50,10 @@ i.  Microsoft Excel:
 2. Handling missing data
 3. Data Cleaning and formatting
 
-### 
+### Exploratory Data Analysis
+The objective of the Exploratory Data Analysis is to uncover key patterns, trends, and insights in the sales data. This analysis focuses on understanding the relationships between variables such as Region, Product Model, Line of Business, Revenue, and Units Sold. The following techniques were applied using Excel to explore the data.
+
+
 
 
 
