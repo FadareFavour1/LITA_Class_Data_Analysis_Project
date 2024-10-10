@@ -5,6 +5,8 @@ Sales Data Analysis
 ### Contents
 [Project Overview ](#Project-Overview)
 
+[Objectives](#Objectives)
+
 [Data Sources](#Data-Sources)
 
 [Tools Used](#Tools-Used)
@@ -16,8 +18,11 @@ Sales Data Analysis
 ### Project Overview 
 This project aims to perform an in-depth analysis of sales data to identify key trends, performance drivers, and opportunities for optimizing revenue generation. The dataset includes various sales-related features such as Region, Trade Date, Fiscal Period, Product Model, Line of Business, Day Category, Revenue, and Units Sold.
 
-### Data Sources 
+### Objectives 
 
+
+### Data Sources 
+This data was gotten from an Online source like Kaggle and Data.gov
 
 ### Tools Used 
 i.  Microsoft Excel:
@@ -34,7 +39,7 @@ i.  Microsoft Excel:
 3. Data Cleaning and formatting
 4. Data type Correction
 
-###
+### 
 
 
 
