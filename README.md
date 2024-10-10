@@ -19,7 +19,10 @@ Sales Data Analysis
 This project aims to perform an in-depth analysis of sales data to identify key trends, performance drivers, and opportunities for optimizing revenue generation. The dataset includes various sales-related features such as Region, Trade Date, Fiscal Period, Product Model, Line of Business, Day Category, Revenue, and Units Sold.
 
 ### Objectives 
-
+1. Analyze Sales Trends: Understand how sales fluctuate over time, across regions, and between different product lines or business segments.
+2. Identify Key Drivers: Determine which factors (e.g., regions, product models, day categories) have the most significant impact on revenue and sales volume.
+3. Performance Benchmarking: Compare sales performance between fiscal periods and regions to highlight high-performing areas and underperforming segments.
+4. Business Insights: Provide actionable insights for improving sales strategies, such as pricing adjustments, region-specific marketing efforts, or targeted promotions.
 
 ### Data Sources 
 This data was gotten from an Online source like Kaggle and Data.gov
