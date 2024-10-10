@@ -7,6 +7,8 @@ Sales Data Analysis
 
 [Objectives](#Objectives)
 
+[Key Analysis Areas](Key-Analysis-Areas)
+
 [Data Sources](#Data-Sources)
 
 [Tools Used](#Tools-Used)
@@ -23,6 +25,13 @@ This project aims to perform an in-depth analysis of sales data to identify key 
 2. Identify Key Drivers: Determine which factors (e.g., regions, product models, day categories) have the most significant impact on revenue and sales volume.
 3. Performance Benchmarking: Compare sales performance between fiscal periods and regions to highlight high-performing areas and underperforming segments.
 4. Business Insights: Provide actionable insights for improving sales strategies, such as pricing adjustments, region-specific marketing efforts, or targeted promotions.
+
+### Key Analysis Areas 
+- Time-Series Analysis: Investigating how sales and revenue evolve over time.
+- Revenue vs. Units Sold: Identifying the relationship between the number of units sold and the revenue generated to understand pricing impacts.
+- Regional Performance: Comparing sales across different geographic regions to identify growth opportunities.
+- Product and Business Line Analysis: Exploring which models and business lines are contributing most to overall revenue.
+
 
 ### Data Sources 
 This data was gotten from an Online source like Kaggle and Data.gov
