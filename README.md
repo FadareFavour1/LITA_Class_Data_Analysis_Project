@@ -49,7 +49,6 @@ i.  Microsoft Excel:
 1. Data loading and Inspection
 2. Handling missing data
 3. Data Cleaning and formatting
-4. Data type Correction
 
 ### 
 
