@@ -15,7 +15,7 @@ Sales Data Analysis
 
 [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
-[Eploratory Data Analysis](Exploratory-Data-Analysis)
+[Exploratory Data Analysis](Exploratory-Data-Analysis)
 
 
 ### Project Overview 
