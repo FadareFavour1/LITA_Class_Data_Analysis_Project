@@ -17,7 +17,6 @@ Sales Data Analysis
 
 [Exploratory Data Analysis](Exploratory-Data-Analysis)
 
-
 ### Project Overview 
 This project aims to perform an in-depth analysis of sales data to identify key trends, performance drivers, and opportunities for optimizing revenue generation. The dataset includes various sales-related features such as Region, Trade Date, Fiscal Period, Product Model, Line of Business, Day Category, Revenue, and Units Sold.
 
